@@ -1,2 +1,1 @@
-# MaryKurinova
-My personal website
+# lazy_ocean

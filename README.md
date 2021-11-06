@@ -1,2 +1,2 @@
-# MayKurinova
+# MaryKurinova
 My personal website
